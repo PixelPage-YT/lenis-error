@@ -1,5 +1,4 @@
-import ReactLenis, { useLenis } from "@studio-freight/react-lenis/types";
-import "./globals.css";
+import { ReactLenis, useLenis } from "@studio-freight/react-lenis";
 
 export default function RootLayout({
   children,
